@@ -3,9 +3,14 @@
 I'm a software engineer who loves building backend systems — and when I’m not getting paid, I’m tinkering with side projects inspired by my favorite games.
 
 ### 🧠 Fun Fact  
-I used to rank in the **top 0.01%** of a few competitive games — now I'm channeling that same energy into programming. I don't even consider myself decent at anything yet but I'm trying a lot of things with a competitive approach: breaking it down, understanding the meta, and grinding for mastery.
+I used to rank in the **top 0.01%** of a few competitive games — now I'm channeling that same energy into programming. 
 
 ---
+
+### Tech
+I don't even consider myself decent at anything yet but I'm trying a lot of things with a competitive approach: breaking it down, understanding the meta, and grinding for mastery.
+
+Right now my interests are leading me to Golang and by circumstance I've been working a lot in .NET. Despite it not being a long-term goal I have a ton of fun building websites too.
 
 ### 🎮 What I'm Working On  
 Currently building side projects inspired by the games I love — I’ll share them once they’re close to ready 😅
@@ -13,7 +18,7 @@ Currently building side projects inspired by the games I love — I’ll share t
 ---
 
 ### 💡 What I'm Learning  
-- **Distributed systems**  
+- **Distributed Systems**  
 - **Golang**   
 ---
 
