@@ -20,6 +20,4 @@ Currently building side projects inspired by the games I love — I’ll share t
 ### 📚 What I’m Reading  
 - *Designing Data-Intensive Applications* — Martin Kleppmann  
 
----
-
 </div>
