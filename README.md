@@ -2,19 +2,12 @@
 
 I'm a software engineer who loves building backend systems — and when I’m not getting paid, I’m tinkering with side projects inspired by my favorite games.
 
-I don't even consider myself decent at anything yet but I'm trying a lot of things with a competitive approach: breaking it down, understanding the meta, and grinding for mastery.
-
----
-
-### 🧠 Fun Facts  
-I used to rank in the **top 0.01%** of a few competitive games — now I'm channeling that same energy into programming. 
-
-Right now my interests are leading me to Golang and by circumstance I've been working a lot in .NET. Despite it not being a long-term goal I have a ton of fun building websites too.
+I used to rank in the top 0.01% in a couple of the most popular esports titles; somewhere in the middle of college I lost interest and instead redirected that same energy into programming. In that sense I see programming in the same light, where I'm figuring out the "meta" and grinding for mastery. I'm not at a point where I consider myself even decent at anything yet (and that's a high standard), but I find significant satisfaction out of being a white belt again ^^
 
 ---
 
 ### 🎮 What I'm Working On  
-Currently building side projects inspired by the games I love — I’ll share them once they’re close to ready 😅
+At work I'm most involved in backend with the MSFT ecosystem (C#/.NET) as well as React/TypeScript; outside of that I'm currently building side projects inspired by games I love — I’ll share them once they’re close to ready 😅
 
 ---
 
