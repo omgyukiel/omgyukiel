@@ -6,7 +6,7 @@ I used to rank in the top 0.01% in a couple of the most popular esports titles; 
 
 ##  What I'm doing
 
-I'm currenlty working at Oracle Health AI for the Forward Engineerinig team where I develop and deploy agents -- my current interest reside in learning more about agent development, distributed systems, and scaling backend services.
+I'm currenlty working at Oracle on the Clinical Agents team where I develop and deploy agents -- my current interest reside in learning more about agent development, distributed systems, and scaling backend services.
 
 ---
 
