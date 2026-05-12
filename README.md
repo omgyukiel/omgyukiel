@@ -41,10 +41,14 @@
 
   <p>
     <samp>
-      <a href="https://www.linkedin.com/in/kenny-levu/">linkedin</a>
-      ·
       <a href="mailto:kennylevu1@gmail.com">email</a>
-      ·
+      .
+      <a href="https://www.linkedin.com/in/kenny-levu/">li</a>
+      .
+      <a href="https://www.x.com/omgyukiel/">X</a>
+      .
+      <a href="https://discord.com/users/1120221068905414717">disc</a>
+      .
       <a href="https://kennylevu.com">blog (wip)</a>
     </samp>
   </p>
