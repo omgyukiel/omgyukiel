@@ -49,7 +49,7 @@
       .
       <a href="https://discord.com/users/1120221068905414717">disc</a>
       .
-      <a href="https://kennylevu.com">blog (wip)</a>
+      <a href="https://www.kennylevu.com">website</a>
     </samp>
   </p>
 </div>
