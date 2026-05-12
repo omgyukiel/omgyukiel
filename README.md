@@ -25,14 +25,17 @@
 
   <samp>
     <p>
-      Lately, I've been spending more time learning about Go and reading DDIA. Currently, I'm working on a
-      <a href="https://github.com/omgyukiel/spireside-together">mod for Slay the Spire 2</a>,
-      and I'm also doing my
-      <a href="https://omscs.gatech.edu/specialization-computing-systems">masters in CS</a>
-      part-time.
+      currently:
+      <a href="https://github.com/omgyukiel/spireside-together">STS2 Multiplayer Mod</a>
+      ·
+      <a href="https://omscs.gatech.edu/specialization-computing-systems">Masters</a>
+      ·
+      <a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/">DDIA</a>
+      ·
+      <a href="https://www.boot.dev/courses/learn-golang">learning Go</a>
     </p>
     <p>
-      Feel free to reach out!
+      Connect with me!
     </p>
   </samp>
 
