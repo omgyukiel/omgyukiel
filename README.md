@@ -43,7 +43,7 @@
     <samp>
       <a href="mailto:kennylevu1@gmail.com">email</a>
       .
-      <a href="https://www.linkedin.com/in/kenny-levu/">li</a>
+      <a href="https://www.linkedin.com/in/kenny-levu/">linkedin</a>
       .
       <a href="https://www.x.com/omgyukiel/">X</a>
       .
