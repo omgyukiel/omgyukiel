@@ -8,7 +8,7 @@
       />
     </p>
     <p>
-      Hey! I'm a software dev from California working on Clinical AI agents at Oracle. I specialize in backend engineering and have a growing interest in distributed systems and pragmatic programming.
+      Hey! I'm a software dev from California working on Clinical AI agents at Oracle. I'm doing my masters in CS part-time and have a growing interest in distributed systems and pragmatic programming.
     </p>
     <p>
       I'm also a huge fan of video games and martial arts -- I used to teach <a href="https://www.instagram.com/ucscmuaythai/">muay thai at my school</a> and rank near the top 0.01% of a couple of major esports titles.
