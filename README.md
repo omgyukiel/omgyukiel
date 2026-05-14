@@ -12,7 +12,7 @@
       Feel free to send a message, I'm trying to become a better programmer and am working on a few projects below :)
     </p>
     <p>
-      I'm also a huge fan of video games and martial arts -- I used to teach <a href="https://www.instagram.com/ucscmuaythai/">muay thai at my school</a> and rank near the top 0.01% of a couple of major esports titles.
+      Fun, generic fact: I'm also a huge fan of video games and martial arts -- I used to teach <a href="https://www.instagram.com/ucscmuaythai/">muay thai at my school</a> and rank near the top 0.01% of a couple of major esports titles.
     </p>
   </samp>
 
