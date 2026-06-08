@@ -29,8 +29,6 @@
       currently:
       <a href="https://github.com/omgyukiel/spireside-together">STS2 Multiplayer Mod</a>
       ·
-      <a href="https://omscs.gatech.edu/specialization-computing-systems">Masters</a>
-      ·
       <a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/">DDIA</a>
       ·
       <a href="https://www.boot.dev/courses/learn-golang">learning Go</a>
