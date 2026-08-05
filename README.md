@@ -1,7 +1,7 @@
 <div align="center">
   <samp>
     <p>
-      Hey, I like doing big coding and playing video games. I'm working on Clinical AI agents at Oracle.
+      I like doing big coding and playing video games
     </p>
   </samp>
 
